@@ -5,7 +5,7 @@
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace ImprintPlus\ShipmentPdf\Model\Order\Pdf;
+namespace ProjectA\ShipmentPdf\Model\Order\Pdf;
 
 /**
  * Class Config
