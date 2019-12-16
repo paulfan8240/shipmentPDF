@@ -4,7 +4,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace ImprintPlus\ShipmentPdf\Model\Order\Pdf;
+namespace ProjectA\ShipmentPdf\Model\Order\Pdf;
 
 use Magento\Framework\App\Filesystem\DirectoryList;
 
